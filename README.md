@@ -61,7 +61,7 @@ Optional for deployment:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/entbappy/BappyGPT.git
+git clone https://github.com/OMPRAKASH261/ChatGPT_Agent-Project.git
 ```
 
 ### 2. Navigate to the project directory
@@ -215,7 +215,7 @@ Example full ECR image URI:
 For GitHub Secrets, only save the repository name:
 
 ```text
-ECR_REPO=bappygpt
+ECR_REPO=beegpt
 ```
 
 Do not save the full ECR URI as `ECR_REPO`.
